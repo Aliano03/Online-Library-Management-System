@@ -1,0 +1,4 @@
+Administrator, administrator@test.pl, Administrator, Test, atest.administrator.cb.pl, NbXKM1Q6G, false
+Borrower, borrower@test.pl, Borrower, Test, btest.borrower.cb.pl, BUBA, false
+Borrower, borrower@test11.pl, Borrower, Test, btest12.borrower.cb.pl, DbTe6a8A4, false
+Librarian, librarian@test.pl, Librarian, Test, ltest.librarian.cb.pl, 0aYqMUFt1, false

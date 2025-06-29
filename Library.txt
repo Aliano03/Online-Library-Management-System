@@ -1,0 +1,5 @@
+A.J. Finn, The Woman in the Window, Psychological Thriller, 50, 26.95
+Alexandre Dumas, The Count of Monte Cristo, Adventure, 62, 31.99
+Alice Walker, The Color Purple, Historical Fiction, 25, 26.5
+Andrzej Sapkowski, Time of Contempt, Fantasy, 95, 44.0
+

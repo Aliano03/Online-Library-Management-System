@@ -1,0 +1,103 @@
+A.J. Finn, The Woman in the Window, Psychological Thriller, 50, 26.95
+Alex Michaelides, The Silent Patient, Psychological Thriller, 40, 31.95
+Alexandre Dumas, The Count of Monte Cristo, Adventure, 62, 31.99
+Alice Sebold, The Lovely Bones, Supernatural Fiction, 84, 41.5
+Alice Walker, The Color Purple, Historical Fiction, 25, 26.5
+Amy Tan, The Joy Luck Club, Contemporary Fiction, 69, 27.75
+Andrzej Sapkowski, The Last Circle of Hell, Fantasy, 42, 30.0
+Andrzej Sapkowski, The Last Wish, Fantasy, 5, 22.0
+Andrzej Sapkowski, Time of Contempt, Fantasy, 95, 44.0
+Andy Weir, The Martian, Science Fiction, 76, 32.8
+Ania Kaminska, Mountains of Eternity, Fantasy, 79, 38.5
+Anthony Burgess, A Clockwork Orange, Satire, 19, 24.8
+Arthur Conan Doyle, Pyramid of Fear, Crime, 3, 18.75
+Arthur Conan Doyle, The Hound of the Baskervilles, Mystery, 87, 43.0
+Audrey Niffenegger, The Time Traveler's Wife, Romance, 60, 34.5
+Audrey Niffenegger, Time Travelers' Wife, Science Fiction, 83, 41.99
+Blake Crouch, Dark Matter, Science Fiction, 21, 24.95
+Brandon Sanderson, Mistborn: The Shadow in the Crucible, Fantasy, 53, 33.99
+Carlos Ruiz Zafon, Sower of the Wind, Mystery, 96, 45.0
+Carlos Ruiz Zafon, The Shadow of the Wind, Mystery, 34, 29.99
+Christopher Buehlman, Between Two Fires, Historical Fiction, 58, 37.5
+Cormac McCarthy, The Road, Post-Apocalyptic Fiction, 64, 30.2
+Dan Brown, The Da Vinci Code, Mystery, 43, 32.0
+Diane Les Becquets, Crystal Heart, Romance, 33, 28.75
+Donna Tartt, The Goldfinch, Literary Fiction, 12, 27.5
+Douglas Adams, The Hitchhiker's Guide to the Galaxy, Humor, 64, 28.0
+E. Lily Yu, Labyrinth of Dreams and Death, Fantasy, 13, 24.95
+Erin Morgenstern, The Night Circus, Fantasy, 45, 36.0
+Ernest Hemingway, The Sun Also Rises, Modernist Literature, 18, 25.5
+F. Scott Fitzgerald, The Great Gatsby, Classic Literature, 84, 23.5
+Frances Hodgson Burnett, The Secret Garden, Children's Literature, 57, 30.8
+Gayle Forman, Where She Went, Romance, 72, 39.5
+George Lucas, Star Wars: A New Hope, Science Fiction, 67, 36.0
+George Orwell, 1984, Dystopian Fiction, 57, 27.95
+George R.R. Martin, A Clash of Kings, Fantasy, 38, 33.25
+George R.R. Martin, A Game of Thrones, Fantasy, 92, 38.75
+Gillian Flynn, Gone Girl, Mystery, 72, 34.5
+H.G. Wells, The Invisible Man, Science Fiction, 41, 29.5
+Hanya Yanagihara, A Little Life, Psychological, 22, 25.5
+Harper Lee, To Kill a Mockingbird, Classic Literature, 80, 26.99
+Haruki Murakami, The Wind-Up Bird Chronicle, Magical Realism, 65, 35.5
+Homer, The Odyssey, Epic Poetry, 21, 22.5
+J.D. Salinger, The Catcher in the Rye, Classic Literature, 36, 21.8
+J.R.R. Tolkien, The Hobbit, Fantasy, 88, 35.5
+J.R.R. Tolkien, The Lord of the Rings: The Fellowship of the Ring, Fantasy, 28, 31.75
+James Dashner, Lost in the Maze, Science Fiction, 80, 38.2
+James Dashner, The Maze Runner, Science Fiction, 85, 36.5
+James Rollins, Sky on Fire, Thriller, 10, 23.99
+Jane Austen, Pride and Prejudice, Classic Literature, 12, 20.0
+Jean-Marie Blas de Robles, Hill of Dogs, Crime, 7, 24.2
+Jeanette Walls, The Glass Castle, Memoir, 72, 38.5
+John Green, The Fault in Our Stars, Young Adult Fiction, 74, 29.5
+Joseph Conrad, Lord Jim, Classic Literature, 27, 28.0
+Jules Verne, Children of Captain Grant, Adventure, 77, 33.25
+Kathryn Stockett, The Help, Historical Fiction, 55, 30.95
+Ken Follett, In the Name of the King, Historical, 75, 41.0
+Ken Follett, The Pillars of the Earth, Historical Fiction, 90, 42.75
+Khaled Hosseini, The Kite Runner, Historical Fiction, 29, 24.5
+Kurt Sutter, Sons of Anarchy, Crime, 16, 26.99
+Lev Grossman, The Magicians, Fantasy, 95, 44.99
+Lisa Kleypas, Dangerous Lover, Romance, 49, 30.2
+Lloyd Alexander, The Book of Three, Fantasy, 12, 26.95
+Lucy Maud Montgomery, Anne of Green Gables, For Children, 76, 40.2
+Margaret Atwood, The Handmaid's Tale, Dystopian Fiction, 33, 28.2
+Margaret Mitchell, Gone with the Wind, Romance, 88, 42.5
+Markus Zusak, The Book Thief, Historical, 9, 23.5
+Mary Higgins Clark, Silent Night, Crime, 40, 29.99
+Michael Crichton, Jurassic Park, Science Fiction, 96, 39.99
+Milan Kundera, Immortality, Philosophical, 32, 29.5
+Neil Gaiman, Neverwhere, Urban Fantasy, 19, 26.5
+Neil Gaiman, The Ocean at the End of the Lane, Fantasy, 93, 43.5
+Niccolo Machiavelli, The Prince, Political Philosophy, 28, 24.2
+Nicholas Sparks, Sunny Shore, Romance, 21, 26.0
+Nicholas Sparks, The Choice, Romance, 24, 34.5
+Orson Scott Card, Ender's Game, Science Fiction, 49, 26.75
+Oscar Wilde, The Picture of Dorian Gray, Classic Literature, 23, 28.0
+Paula Hawkins, The Girl on the Train, Thriller, 15, 24.99
+Paulo Coelho, The Alchemist, Inspirational, 67, 25.0
+Philippa Gregory, Morning Star, Historical, 55, 35.5
+Robert Jordan, Following the Shadow, Fantasy, 89, 43.75
+S.J. Watson, Before I Go to Sleep, Psychological Thriller, 63, 34.8
+Sergei Lukyanenko, Night Watch, Urban Fantasy, 71, 39.75
+Stanislaw Grzesiuk, Five Years in a Concentration Camp, Biography, 14, 19.9
+Stephen King, Dead Zone, Horror, 65, 35.25
+Stephen King, Dream Shop, Fantasy, 29, 31.5
+Stephen King, Four Seasons, Horror, 4, 20.75
+Stephen King, Insomnia, Horror, 23, 26.5
+Stephen King, The Dark Tower, Fantasy, 14, 26.5
+Stephen King, The Shining, Horror, 78, 29.5
+Stephen King, The Stand, Post-Apocalyptic Fiction, 98, 45.8
+Stieg Larsson, The Girl with the Dragon Tattoo, Mystery, 38, 29.8
+Susan Mallery, Three Sisters, Romance, 64, 27.8
+Suzanne Collins, The Hunger Games, Dystopian Fiction, 51, 28.99
+Sylvia Plath, The Bell Jar, Autobiographical Fiction, 39, 32.75
+Tom Clancy, Code Name Zero, Thriller, 52, 34.2
+Tom Clancy, Red Rabbit, Thriller, 36, 32.99
+Tom Rob Smith, The Last Family, Crime, 46, 31.25
+Tracy Chevalier, Girl with a Pearl Earring, Historical, 30, 29.2
+Truman Capote, Breakfast at Tiffany's, Reportage, 35, 28.2
+Vasily Grossman, Life and Fate, War, 8, 22.5
+Whitley Strieber, The Day After Tomorrow, Science Fiction, 66, 36.5
+William Gaddis, Still Life with Bridle, Satire, 70, 40.8
+William R. Forstchen, One Second After, Science Fiction, 54, 32.4
